@@ -7,6 +7,7 @@ export default function Home() {
       <Head>
         {/* <meta name="description" content="Frontend Developer, React Developer, My-Portfolio" /> */}
         {/* <meta name="keywords" content="HTML5,CSS,JAVASCRIPT,REACT,REDUX,SASS,BOOTSTRAP,FRONTEND DEVELOPER,FRONTEND,WEB,DEVELOPER"></meta> */}
+<meta name="google-site-verification" content="bFnjxYzJlaAu1XgBaK7jwviK5Bm3FiCzgyaXxAd5X10" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
